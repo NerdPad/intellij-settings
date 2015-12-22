@@ -63,6 +63,9 @@
         <entry>content</entry>
         <entry>div</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
