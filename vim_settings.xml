@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dev/GruntIntro/package.json" timestamp="1450820548609">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
+      <file name="D:/Dev/GruntIntro/package.json" timestamp="1450820898233">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="6" column="1" />
+        <mark key="." line="6" column="1" />
+        <mark key="^" line="6" column="1" />
       </file>
       <file name="C:/Repo/Learning/RequireJS/js/main.js" timestamp="1449092745361">
         <mark key="'" line="2" column="213" />
@@ -99,6 +99,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
