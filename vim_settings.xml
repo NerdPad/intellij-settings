@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Dev/GruntIntro/package.json" timestamp="1450820548609">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
       <file name="C:/Repo/Learning/RequireJS/js/main.js" timestamp="1449092745361">
         <mark key="'" line="2" column="213" />
       </file>
@@ -33,19 +39,28 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>tasks</text>
+        <text>0.0.1</text>
       </register>
       <register name="&quot;" type="4">
-        <text>tasks</text>
+        <text>0.0.1</text>
       </register>
       <register name="2" type="4">
+        <text>application-name</text>
+      </register>
+      <register name="3" type="4">
+        <text>tasks</text>
+      </register>
+      <register name="4" type="4">
         <text>js/tasks.js</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9yZXF1aXJlLmpzIj48L3NjcmlwdD4K</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
       <register name="-" type="4">
-        <text>tasks</text>
+        <text>0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -63,7 +78,9 @@
         <entry>content</entry>
         <entry>div</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -76,6 +93,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
