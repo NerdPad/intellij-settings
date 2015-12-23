@@ -1,0 +1,13 @@
+<templateSet group="ExpressJS">
+  <template name="exr" value="$app$.$get$('/$route$', function (req, res) {&#10;    $END$&#10;});" description="Express Route" toReformat="true" toShortenFQNames="true">
+    <variable name="app" expression="" defaultValue="app" alwaysStopAt="true" />
+    <variable name="get" expression="" defaultValue="get" alwaysStopAt="true" />
+    <variable name="route" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="false" />
+      <option name="JSX_HTML" value="false" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
