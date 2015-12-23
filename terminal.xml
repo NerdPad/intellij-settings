@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="D:\Tools\Babun\.babun\cygwin\bin\mintty.exe -" />
+    <option name="myShellPath" value="D:\Tools\Babun\.babun\cygwin\bin\bash.exe" />
   </component>
 </application>
