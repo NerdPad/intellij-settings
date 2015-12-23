@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Dev/ExpressJS/package.json" timestamp="1450901243614">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="D:/Dev/GruntIntro/package.json" timestamp="1450820898233">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="6" column="1" />
@@ -20,6 +26,12 @@
         <mark key="]" line="6" column="49" />
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
+      </file>
+      <file name="D:/Dev/ExpressJS/app.js" timestamp="1450901410837">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -39,28 +51,31 @@
     </jumps>
     <registers>
       <register name="1" type="4">
-        <text>0.0.1</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>0.0.1</text>
-      </register>
-      <register name="2" type="4">
         <text>application-name</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>application-name</text>
+      </register>
+      <register name="2" type="4">
+        <text>0.0.1</text>
+      </register>
       <register name="3" type="4">
-        <text>tasks</text>
+        <text>application-name</text>
       </register>
       <register name="4" type="4">
+        <text>tasks</text>
+      </register>
+      <register name="5" type="4">
         <text>js/tasks.js</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9yZXF1aXJlLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>0.0.1</text>
+        <text>application-name</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -80,6 +95,7 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
