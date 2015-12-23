@@ -18,11 +18,10 @@
       <file name="C:/Repo/Learning/RequireJS/js/main.js" timestamp="1449092745361">
         <mark key="'" line="2" column="213" />
       </file>
-      <file name="D:/Dev/ExpressJS/lib/login/index.js" timestamp="1450903887824">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
+      <file name="D:/Dev/ExpressJS/lib/login/index.js" timestamp="1450904344371">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/Repo/Learning/RequireJS/index.html" timestamp="1449092336563">
         <mark key="'" line="1" column="0" />
@@ -56,25 +55,28 @@
       <jump line="2" column="213" filename="C:/Repo/Learning/RequireJS/js/main.js" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>application-name</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cn0pOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>application-name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cn0pOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>0.0.1</text>
-      </register>
-      <register name="3" type="4">
         <text>application-name</text>
       </register>
+      <register name="3" type="4">
+        <text>0.0.1</text>
+      </register>
       <register name="4" type="4">
-        <text>tasks</text>
+        <text>application-name</text>
       </register>
       <register name="5" type="4">
+        <text>tasks</text>
+      </register>
+      <register name="6" type="4">
         <text>js/tasks.js</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJqcy9yZXF1aXJlLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
