@@ -1,5 +1,5 @@
 <application>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.3.0" last-modified="1450310044000" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" version="5.3.0" last-modified="1450291424000" />
   </component>
 </application>
