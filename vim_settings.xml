@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/code/hapiweb/config/manifest.json" timestamp="1452539394711">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/code/hapiweb/server/index.js" timestamp="1452489150078">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="12" column="27" />
@@ -15,7 +20,7 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/code/hapiweb/api/index.js" timestamp="1452489310063">
+      <file name="$USER_HOME$/code/hapiweb/api/index.js" timestamp="1452539436661">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
@@ -61,6 +66,11 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/code/hapiweb/api/search/package.json" timestamp="1452539155064">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
       <file name="D:/Dev/ExpressJS/lib/users/index.js" timestamp="1450906016469">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="26" />
@@ -94,11 +104,16 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/code/hapiweb/public/index.js" timestamp="1452538038796">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
+      <file name="$USER_HOME$/code/hapiweb/public/index.js" timestamp="1452538853419">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
         <mark key="^" line="0" column="48" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/api/search/index.js" timestamp="1452539487007">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -119,19 +134,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-      &quot;plugin&quot;: {
-        &quot;register&quot;: &quot;./public&quot;
-      },
-      &quot;options&quot;: {
-        &quot;select&quot;: [
-          &quot;web&quot;
-        ]
-      }
-    }</text>
+        <text>exports</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>exports</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -140,6 +146,33 @@
         <text encoding="base64">YXBwLnVzZShsb2dpbik7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>exports</text>
+      </register>
+      <register name="2" type="4">
+        <text>application-name&quot;</text>
+      </register>
+      <register name="3" type="4">
+        <text>,
+      &quot;routes&quot;: {
+        &quot;method&quot;: &quot;GET&quot;,
+        &quot;path&quot;: &quot;/{params*}&quot;,
+        &quot;handler&quot;: {
+          &quot;directory&quot;: {
+            &quot;path&quot;: &quot;./public&quot;
+          }
+        }
+      },</text>
+      </register>
+      <register name="4" type="4">
+        <text>erver.route({
+    //    method: 'GET',
+    //    path: '/',
+    //    handler: function (request, reply) {
+    //        return reply(&quot;Sample Web App&quot;);
+    //    }
+    //});</text>
+      </register>
+      <register name="5" type="4">
         <text>{
       &quot;plugin&quot;: {
         &quot;register&quot;: &quot;./public&quot;
@@ -151,42 +184,21 @@
       }
     }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text>,
         &quot;routes&quot;: {
           &quot;prefix&quot;: &quot;/web&quot;
         }</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>'.',
             listing: true</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>erver.route({
-        method: 'GET',
-        path:&quot;/web/{param*}&quot;,
-        handler: {
-            directory: {
-                path: './public',
-                listing: true
-            }
-        }
-    });</text>
-      </register>
-      <register name="7" type="4">
-        <text>public</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB6emFrYXJpYSBvbiAxLzExLzE2Lgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
