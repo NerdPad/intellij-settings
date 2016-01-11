@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/hapiweb/config/manifest.json" timestamp="1452490198589">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-      </file>
       <file name="$USER_HOME$/code/hapiweb/server/index.js" timestamp="1452489150078">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="12" column="27" />
@@ -25,14 +20,11 @@
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="C:/Repo/Learning/RequireJS/index.html" timestamp="1449092336563">
-        <mark key="'" line="1" column="0" />
-        <mark key="h" line="26" column="0" />
-        <mark key="[" line="6" column="46" />
-        <mark key="m" line="26" column="0" />
-        <mark key="]" line="6" column="49" />
-        <mark key="." line="6" column="49" />
-        <mark key="^" line="6" column="49" />
+      <file name="$USER_HOME$/code/hapiweb/public/package.json" timestamp="1452536824159">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/code/hapiweb/server/package.json" timestamp="1452488451688">
         <mark key="[" line="1" column="20" />
@@ -69,9 +61,6 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="C:/Repo/Learning/RequireJS/js/main.js" timestamp="1449092745361">
-        <mark key="'" line="2" column="213" />
-      </file>
       <file name="D:/Dev/ExpressJS/lib/users/index.js" timestamp="1450906016469">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="26" />
@@ -94,17 +83,22 @@
       <file name="$USER_HOME$/code/hapiweb/index.js" timestamp="1452489362780">
         <mark key="[" line="9" column="43" />
       </file>
-      <file name="$USER_HOME$/code/hapiweb/server.js" timestamp="1452490120034">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="7" column="23" />
-        <mark key="^" line="7" column="30" />
+      <file name="$USER_HOME$/code/hapiweb/server.js" timestamp="1452536985223">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Dev/ExpressJS/app.js" timestamp="1450906210608">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="18" />
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/public/index.js" timestamp="1452538038796">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="0" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -125,10 +119,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>options</text>
+        <text>{
+      &quot;plugin&quot;: {
+        &quot;register&quot;: &quot;./public&quot;
+      },
+      &quot;options&quot;: {
+        &quot;select&quot;: [
+          &quot;web&quot;
+        ]
+      }
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -137,37 +140,56 @@
         <text encoding="base64">YXBwLnVzZShsb2dpbik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>options</text>
+        <text>{
+      &quot;plugin&quot;: {
+        &quot;register&quot;: &quot;./public&quot;
+      },
+      &quot;options&quot;: {
+        &quot;select&quot;: [
+          &quot;web&quot;
+        ]
+      }
+    }</text>
       </register>
       <register name="2" type="4">
-        <text>Title</text>
-      </register>
-      <register name="3" type="4">
-        <text>server</text>
-      </register>
-      <register name="4" type="4">
         <text>,
-        files: {
-            relativeTo: './modules'
+        &quot;routes&quot;: {
+          &quot;prefix&quot;: &quot;/web&quot;
         }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICsgJy9tb2R1bGVzJw==</text>
+      <register name="3" type="4">
+        <text>'.',
+            listing: true</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>modules&quot;</text>
+        <text>erver.route({
+        method: 'GET',
+        path:&quot;/web/{param*}&quot;,
+        handler: {
+            directory: {
+                path: './public',
+                listing: true
+            }
+        }
+    });</text>
       </register>
       <register name="7" type="4">
-        <text>require('./search')</text>
+        <text>public</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8KICAgQ3JlYXRlZCBieSBadWhhaWIgb24gMTIvMjMvMjAxNS4KCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>login</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB6emFrYXJpYSBvbiAxLzExLzE2Lgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -185,8 +207,8 @@
       <history-cmd>
         <entry>q</entry>
         <entry>wwq</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
