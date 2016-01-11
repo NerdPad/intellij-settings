@@ -3,12 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Dev/ExpressAPI/bin/www" timestamp="1450908091530" />
+      <file name="$USER_HOME$/code/hapiweb/config/manifest.json" timestamp="1452490198589">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/server/index.js" timestamp="1452489150078">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+      </file>
       <file name="D:/Dev/ExpressJS/lib/login/index.js" timestamp="1450906548430">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/api/index.js" timestamp="1452489310063">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="C:/Repo/Learning/RequireJS/index.html" timestamp="1449092336563">
         <mark key="'" line="1" column="0" />
@@ -18,6 +33,11 @@
         <mark key="]" line="6" column="49" />
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/server/package.json" timestamp="1452488451688">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
       </file>
       <file name="D:/Dev/ExpressJS/lib/posts/index.js" timestamp="1450905954616">
         <mark key="'" line="0" column="0" />
@@ -37,6 +57,11 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/public/index.html" timestamp="1452490001032">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="D:/Dev/GruntIntro/package.json" timestamp="1450820898233">
         <mark key="[" line="4" column="19" />
@@ -65,6 +90,16 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
+      <file name="$USER_HOME$/code/hapiweb/server/modules/index.js" timestamp="1452487746063" />
+      <file name="$USER_HOME$/code/hapiweb/index.js" timestamp="1452489362780">
+        <mark key="[" line="9" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/server.js" timestamp="1452490120034">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="30" />
+      </file>
       <file name="D:/Dev/ExpressJS/app.js" timestamp="1450906210608">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="18" />
@@ -89,11 +124,11 @@
       <jump line="0" column="0" filename="D:/Dev/ExpressJS/lib/posts/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8KICAgQ3JlYXRlZCBieSBadWhhaWIgb24gMTIvMjMvMjAxNS4KCg==</text>
+      <register name="&quot;" type="4">
+        <text>options</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -101,35 +136,38 @@
       <register name="0" type="2">
         <text encoding="base64">YXBwLnVzZShsb2dpbik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8KICAgQ3JlYXRlZCBieSBadWhhaWIgb24gMTIvMjMvMjAxNS4KCg==</text>
+      <register name="1" type="4">
+        <text>options</text>
       </register>
       <register name="2" type="4">
-        <text>login</text>
+        <text>Title</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dGluZ3MgICAg</text>
+        <text>server</text>
       </register>
       <register name="4" type="4">
-        <text>login</text>
+        <text>,
+        files: {
+            relativeTo: './modules'
+        }</text>
       </register>
       <register name="5" type="4">
-        <text>login</text>
+        <text encoding="base64">ICsgJy9tb2R1bGVzJw==</text>
       </register>
       <register name="6" type="4">
-        <text>login</text>
+        <text>modules&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>login</text>
+        <text>require('./search')</text>
       </register>
-      <register name="8" type="4">
-        <text>login</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8KICAgQ3JlYXRlZCBieSBadWhhaWIgb24gMTIvMjMvMjAxNS4KCg==</text>
       </register>
       <register name="9" type="4">
         <text>login</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -145,10 +183,10 @@
         <entry>div</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
         <entry>wwq</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
