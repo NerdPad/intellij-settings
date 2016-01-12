@@ -122,10 +122,8 @@
         <mark key="^" line="4" column="26" />
       </file>
       <file name="$USER_HOME$/code/fightclubpoc/server/common/start.js" timestamp="1452553202544" />
-      <file name="$USER_HOME$/code/fightclubpoc/server/modules/index.js" timestamp="1452550725905">
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/code/fightclubpoc/server/modules/index.js" timestamp="1452558209724">
+        <mark key="[" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/code/hapiweb/server.js" timestamp="1452536985223">
         <mark key="[" line="8" column="0" />
@@ -167,8 +165,8 @@
       <jump line="0" column="0" filename="D:/Dev/ExpressJS/lib/posts/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>./../</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>./../</text>
@@ -179,32 +177,35 @@
       <register name="0" type="2">
         <text encoding="base64">YXBwLnVzZShsb2dpbik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>./../</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>options</text>
+      <register name="2" type="2">
+        <text encoding="base64">aWYgKHR5cGVvZiBkZWZpbmUgIT09ICdmdW5jdGlvbicpIHsKICAgIHZhciBkZWZpbmUgPSByZXF1aXJlKCdhbWRlZmluZScpKG1vZHVsZSk7Cn0K</text>
       </register>
       <register name="3" type="4">
+        <text>,
+        attributes: {
+            pkg: package
+        }</text>
+      </register>
+      <register name="4" type="4">
+        <text>./../</text>
+      </register>
+      <register name="5" type="4">
+        <text>options</text>
+      </register>
+      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9jb21tb24vZGInLAogICAgICAgIF0sIHN0YXJ0KTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvc3BlYycK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvY2x1YicsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvY2xpZW50JywK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8nc2VydmVyL2NvbW1vbi9zZXJ2ZXInLAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>/server/</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
