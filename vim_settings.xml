@@ -3,11 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1452552424219">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/public/package.json" timestamp="1452536824159">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/fightclubpoc/server/common/config.js" timestamp="1452548908294">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/fightclubpoc/server/common/manifest.json.js" timestamp="1452553256575">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+      </file>
+      <file name="D:/Dev/ExpressJS/lib/signup/index.js" timestamp="1450906563305">
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/api/search/package.json" timestamp="1452539155064">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+      </file>
+      <file name="D:/Dev/ExpressJS/lib/login/form.jade" timestamp="1450906784466">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
+      <file name="D:/Dev/ExpressJS/lib/views/layout.jade" timestamp="1450906718822">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/hapiweb/index.js" timestamp="1452489362780">
+        <mark key="[" line="9" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/fightclubpoc/init.js" timestamp="1452551479266">
+        <mark key="[" line="31" column="30" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+      </file>
       <file name="$USER_HOME$/code/hapiweb/config/manifest.json" timestamp="1452539394711">
         <mark key="[" line="6" column="7" />
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/code/fightclubpoc/server/common/manifest.json" timestamp="1452548833912" />
       <file name="$USER_HOME$/code/hapiweb/server/index.js" timestamp="1452489150078">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="12" column="27" />
@@ -25,29 +76,27 @@
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="$USER_HOME$/code/hapiweb/public/package.json" timestamp="1452536824159">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/code/fightclubpoc/server/common/db.js" timestamp="1452549768856">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+      </file>
+      <file name="$USER_HOME$/code/fightclubpoc/manifest.json" timestamp="1452549998873">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="34" />
+        <mark key="." line="29" column="34" />
+        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/code/hapiweb/server/package.json" timestamp="1452488451688">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="D:/Dev/ExpressJS/lib/posts/index.js" timestamp="1450905954616">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-      </file>
-      <file name="D:/Dev/ExpressJS/lib/signup/index.js" timestamp="1450906563305">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/code/fightclubpoc/server/modules/package.json" timestamp="1452550379457">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
       </file>
       <file name="D:/Dev/ExpressJS/package.json" timestamp="1450901243614">
         <mark key="[" line="3" column="35" />
@@ -66,31 +115,17 @@
         <mark key="." line="6" column="1" />
         <mark key="^" line="6" column="1" />
       </file>
-      <file name="$USER_HOME$/code/hapiweb/api/search/package.json" timestamp="1452539155064">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="D:/Dev/ExpressJS/lib/users/index.js" timestamp="1450906016469">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="26" />
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="D:/Dev/ExpressJS/lib/login/form.jade" timestamp="1450906784466">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="22" />
-      </file>
-      <file name="D:/Dev/ExpressJS/lib/views/layout.jade" timestamp="1450906718822">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-      </file>
-      <file name="$USER_HOME$/code/hapiweb/index.js" timestamp="1452489362780">
-        <mark key="[" line="9" column="43" />
+      <file name="$USER_HOME$/code/fightclubpoc/server/common/start.js" timestamp="1452553202544" />
+      <file name="$USER_HOME$/code/fightclubpoc/server/modules/index.js" timestamp="1452550725905">
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/code/hapiweb/server.js" timestamp="1452536985223">
         <mark key="[" line="8" column="0" />
@@ -133,10 +168,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exports</text>
+        <text>./../</text>
       </register>
       <register name="-" type="4">
-        <text>exports</text>
+        <text>./../</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
@@ -145,59 +180,31 @@
         <text encoding="base64">YXBwLnVzZShsb2dpbik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>exports</text>
+        <text>./../</text>
       </register>
       <register name="2" type="4">
-        <text>application-name&quot;</text>
+        <text>options</text>
       </register>
       <register name="3" type="4">
-        <text>,
-      &quot;routes&quot;: {
-        &quot;method&quot;: &quot;GET&quot;,
-        &quot;path&quot;: &quot;/{params*}&quot;,
-        &quot;handler&quot;: {
-          &quot;directory&quot;: {
-            &quot;path&quot;: &quot;./public&quot;
-          }
-        }
-      },</text>
+        <text>.</text>
       </register>
-      <register name="4" type="4">
-        <text>erver.route({
-    //    method: 'GET',
-    //    path: '/',
-    //    handler: function (request, reply) {
-    //        return reply(&quot;Sample Web App&quot;);
-    //    }
-    //});</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9jb21tb24vZGInLAogICAgICAgIF0sIHN0YXJ0KTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-      &quot;plugin&quot;: {
-        &quot;register&quot;: &quot;./public&quot;
-      },
-      &quot;options&quot;: {
-        &quot;select&quot;: [
-          &quot;web&quot;
-        ]
-      }
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvc3BlYycK</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-        &quot;routes&quot;: {
-          &quot;prefix&quot;: &quot;/web&quot;
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvY2x1YicsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>'.',
-            listing: true</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvY2xpZW50JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8nc2VydmVyL2NvbW1vbi9zZXJ2ZXInLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>/server/</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
