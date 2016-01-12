@@ -58,7 +58,6 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
       </file>
-      <file name="$USER_HOME$/code/fightclubpoc/server/common/manifest.json" timestamp="1452548833912" />
       <file name="$USER_HOME$/code/hapiweb/server/index.js" timestamp="1452489150078">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="12" column="27" />
@@ -81,6 +80,7 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/code/fightclubhapi/init.js" timestamp="1452558984126" />
       <file name="$USER_HOME$/code/fightclubpoc/manifest.json" timestamp="1452549998873">
         <mark key="[" line="29" column="23" />
         <mark key="]" line="29" column="34" />
@@ -121,9 +121,13 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="4" column="26" />
       </file>
-      <file name="$USER_HOME$/code/fightclubpoc/server/common/start.js" timestamp="1452553202544" />
       <file name="$USER_HOME$/code/fightclubpoc/server/modules/index.js" timestamp="1452558209724">
         <mark key="[" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/fightclubhapi/package.json" timestamp="1452558874587">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/code/hapiweb/server.js" timestamp="1452536985223">
         <mark key="[" line="8" column="0" />
@@ -166,7 +170,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZXF1aXJlanMiOiAiXjIuMS4yMiIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>./../</text>
@@ -178,34 +182,34 @@
         <text encoding="base64">YXBwLnVzZShsb2dpbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZXF1aXJlanMiOiAiXjIuMS4yMiIsCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJhbWRlZmluZSI6ICJeMS4wLjAiLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aWYgKHR5cGVvZiBkZWZpbmUgIT09ICdmdW5jdGlvbicpIHsKICAgIHZhciBkZWZpbmUgPSByZXF1aXJlKCdhbWRlZmluZScpKG1vZHVsZSk7Cn0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>,
         attributes: {
             pkg: package
         }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>./../</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>options</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9jb21tb24vZGInLAogICAgICAgIF0sIHN0YXJ0KTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvc3BlYycK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9yb3V0ZXMvY2x1YicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NlcnZlci9jb21tb24vZGInLAogICAgICAgIF0sIHN0YXJ0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
